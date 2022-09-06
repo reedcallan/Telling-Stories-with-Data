@@ -8,4 +8,6 @@ Data visualization is going to be an incredibly instrumental element of the work
 * How to create meaningful visualizations based off data sets
 * How to structure my visualizations to ensure that I displaying data in a way that communicates my point
 ## Portfolio
-Insert wonderful projects here:
+### Assignment 3
+### Assignment 4
+### Final Project
