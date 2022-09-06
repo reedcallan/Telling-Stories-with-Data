@@ -1,4 +1,4 @@
-# Reed Callan
+# Reed Callan's Portfolio
 
 Link to live site: https://reedcallan.github.io/Telling-Stories-with-Data/
 ## Introduction
