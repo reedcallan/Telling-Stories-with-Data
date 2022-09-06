@@ -8,4 +8,4 @@ Data visualization is going to be an incredibly instrumental element of the work
 * Color Schemes and how to use color
 * What to look for when critiquing existing visualizations
 * How to create meaningful visualizations based off data sets
-* How to curate 
+* How to structure my visualizations to ensure that I displaying data in a way that communicates my point
