@@ -9,7 +9,7 @@ Data visualization is going to be an incredibly instrumental element of the work
 * How to structure my visualizations to ensure that I displaying data in a way that communicates my point
 ## Portfolio
 ### Visualizing Government Debt
-[Link to assignment](reedcallan/Telling-Stories-with-Data/dataviz2.md)
+[Link to assignment](/dataviz2.md)
 ### Crafting for Clarity
 ### Critique by Design
 ### Final Project
