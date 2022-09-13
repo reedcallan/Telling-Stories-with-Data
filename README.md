@@ -10,6 +10,7 @@ Data visualization is going to be an incredibly instrumental element of the work
 ## Portfolio
 ### Visualizing Government Debt
 [Link to assignment](/dataviz.md)
-### Crafting for Clarity
+### In-Class Tableau
+
 ### Critique by Design
 ### Final Project
