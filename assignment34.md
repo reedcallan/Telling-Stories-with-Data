@@ -1,6 +1,6 @@
 # Assignment 3/4
 ## Step One
-
+![Initial Visualization](https://www.statisticshowto.com/wp-content/uploads/2014/01/wii-floundering.png)
 
 
 
