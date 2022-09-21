@@ -18,6 +18,7 @@ The next step would be to sketch out potential redesigns now that I have recogni
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/112968634/191404000-f442d737-9bd5-4d28-86c6-a49ed0befd0f.png">
 
+These sketches allowed me to play with both old and new y-values and see what story is told by each. It appeared to me that the bar graph told a better story. More specifically, it told me that “PS2 is being played way more than PS3 (Sony’s next generation console). This is uncharacteristic of the average relationship between old and next generation consoles (Nintendo and Microsoft’s consoles follow this relationship)”
 
 ## Step Four
 
