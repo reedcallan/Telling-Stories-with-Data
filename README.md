@@ -8,9 +8,7 @@ Data visualization is going to be an incredibly instrumental element of the work
 * How to create meaningful visualizations based off data sets
 * How to structure my visualizations to ensure that I displaying data in a way that communicates my point
 ## Portfolio
-### Visualizing Government Debt
-[Link to assignment](/dataviz.md)
+### [Visualizing Government Debt](/dataviz.md)
 ### In-Class Tableau
-
 ### [Critique by Design](/assignment34.md)
 ### Final Project
