@@ -14,9 +14,46 @@ After a lot of searching I found the following image which described
 
 ## Step Four
 
+Are there any noticeable differences between these two charts?
+
+* Student, mid 20’s: 
+  -The y-axis is missing in the bar chart
+  -Line chart goes by month and time
+o	Big difference in relative values
+•	Adult, mid 60’s:
+o	Bottom shows more clear difference between consoles
+o	Company instead of time on x-axis
+o	It seems like the bar chart is trying to tell me something more than the line chart
+
+Can you tell me something you like about each of these graphs?
+
+•	Student, mid 20’s: 
+o	Top- I like the month-by-month breakdown
+o	Bottom- The color scheme is pleasing
+•	Adult, mid 60’s: 
+o	Top- I like the title it seems descriptive
+o	Bottom- I’m happy you clarified which company is which system
+
+What is something you do not like?
+
+•	Student, mid 20’s: 
+o	Top- The line colors are jarring
+o	Bottom- Should be clearer about what the values on the y-axis mean
+•	Adult, mid 60’s: 
+o	Top- Labels next to the lines are unclear and pushed together
+o	Bottom- Colors are confusing and I’m not sure what I should be seeing from them.
+
+Is there anything you would change about them?
+
+•	Student, mid 20’s: 
+o	Top- I like the month-by-month breakdown
+o	Bottom- The color scheme is pleasing
+•	Adult, mid 60’s: 
+o	Top- Create a key for the line colors
+o	Bottom- Group consoles colors by previous system and new system
+![image](https://user-images.githubusercontent.com/112968634/191387887-5420f6d6-e13a-4e28-87f7-1970c96b6db3.png)
 
 
-![image](https://user-images.githubusercontent.com/112968634/191386072-d1dcfab9-9d54-4c5c-9d05-bc4c74788ac6.png)
 
 
 
