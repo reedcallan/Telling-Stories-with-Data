@@ -13,9 +13,11 @@ After a lot of searching I found the following image which described the active 
 
 ## Step Four
 
+After sketching two rough ideas for how to redesign, I wanted to put them to the test.
+
 I prepared and asked the following questions to two individuals. A female student in her mid-20s and a male adult in his mid-60s
 
-I captured the almost all of their feedback below:
+I captured most of their feedback below:
 
 ![image](https://user-images.githubusercontent.com/112968634/191387887-5420f6d6-e13a-4e28-87f7-1970c96b6db3.png)
 
