@@ -11,6 +11,10 @@ This visualization seemed perfect to me because it fell flat in many departments
 In addition to data misrepresentation, the axes could both use work. The x-axis used 2009 in every month tick unnecessarily and the y-axis starts at 5%. Finally, the color scheme for each console line had no correlation and just appeared to try and contrast from each other as much as possible. These problems could be fixed.
 
 ## Step Three
+The next step would be to sketch out potential redesigns now that I have recognized the flaws. I decided to sketch two options:
+
+1. A line graph with adjusted color scheme and axes
+2. A bar graph with adjusted color scheme, axes, as well as an adjusted y-value set that factors consoles owned as well as usage percentage
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/112968634/191404000-f442d737-9bd5-4d28-86c6-a49ed0befd0f.png">
 
