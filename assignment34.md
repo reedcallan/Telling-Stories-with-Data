@@ -1,4 +1,4 @@
-# Assignment 3/4
+# Critique by Design
 ## Step One
 ![Initial Visualization](https://www.statisticshowto.com/wp-content/uploads/2014/01/wii-floundering.png)
 
