@@ -19,7 +19,7 @@ I captured the almost all of their feedback below:
 
 ![image](https://user-images.githubusercontent.com/112968634/191387887-5420f6d6-e13a-4e28-87f7-1970c96b6db3.png)
 
-After assessing their feedback, it seems like they both had more unique greivences 
+After assessing their feedback, it seems like they both had more unique grievances. For instance, the adult was more concerned about the colors being used for a purpose while the student wanted more clarity on the axes. However, it seems that there was a general consensus that the bar chart was much more clear and actually told a story.
 
 ## Step Five
 
