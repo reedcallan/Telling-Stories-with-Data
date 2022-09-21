@@ -6,7 +6,9 @@ After a lot of searching I found the following image which described the active 
 
 ## Step Two
 
+This visualization seemed perfect to me because it fell flat in many departments including truthfulness, engagement and usefulness. A lot of the failure in these departments is due to the misrepresentation of the data. See, even though the data provided active user percentage, it did not calculate consoles owned at the time. Therefore, the Nintendo Wii appears very underperforming, but it is on par with the other new consoles.
 
+In addition to data misrepresentation, the axes could both use work. The x-axis used 2009 in every month tick unnecessarily and the y-axis starts at 5%. Finally, the color scheme for each console line had no correlation and just appeared to try and contrast from each other as much as possible. These problems could be fixed.
 
 ## Step Three
 
