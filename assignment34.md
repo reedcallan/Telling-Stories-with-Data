@@ -10,6 +10,8 @@ After a lot of searching I found the following image which described the active 
 
 ## Step Three
 
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/112968634/191404000-f442d737-9bd5-4d28-86c6-a49ed0befd0f.png">
+
 
 ## Step Four
 
