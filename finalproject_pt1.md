@@ -23,4 +23,11 @@ Ideally, the website would start above the surface. Give the essentials of frack
 
 ![image](https://user-images.githubusercontent.com/112968634/192674106-dfae4004-705c-4475-82c1-53fb7efe8cb1.png)
 ## Data
-Many studies have evaluated the detrimental harm that fracking brings, so it was not very difficult to collect said data.
+Many studies have evaluated the detrimental harm that fracking brings, so it was not very difficult to collect said data. Although, I wanted to make sure I am using the data efficiently, so I plan to include striking graphics that summarize 1) water quality impact and 2) air quality impact.
+[Environmental Data (Water)](https://www.pnas.org/doi/10.1073/pnas.1420279112)
+[Environmental Data (Air)](
+
+While many individuals care for the enviroment the topic has become so polarizing that I wanted to make sure I could cut through to them. For that reason, I researched communal harm.
+[Communal Vulnerability](https://www.sciencedirect.com/science/article/pii/S0143622815000776#bib46)
+[Communal Risk](https://www.sciencedirect.com/science/article/pii/S0048969715001667)
+
