@@ -12,3 +12,4 @@ Data visualization is going to be an incredibly instrumental element of the work
 ### In-Class Tableau
 ### [Critique by Design](/assignment34.md)
 ### Final Project
+[Part 1](/finalproject_pt1.md)
