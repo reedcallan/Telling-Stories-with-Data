@@ -21,6 +21,6 @@ To accomplish the feeling of dread and eventual hope, I wanted to structure the 
 
 Ideally, the website would start above the surface. Give the essentials of fracking process and exactly what happens while explaining in layman terms. Next, we move down the pipe to the environmental harm and communal harm done by fracking. By the time we have made it to the most hopeless part of the website we start to make our way back up the pipe. As the 
 
-
+![image](https://user-images.githubusercontent.com/112968634/192674106-dfae4004-705c-4475-82c1-53fb7efe8cb1.png)
 ## Data
 Many studies have evaluated the detrimental harm that fracking brings, so it was not very difficult to collect said data.
