@@ -17,7 +17,7 @@ Goal of this topic is to not only inform the public of the dangers and hazards p
 
 ## Method, Medium, and Sketching
 To accomplish the feeling of dread and eventual hope, I wanted to structure the website around the fracking process.
-![image](https://user-images.githubusercontent.com/112968634/192673695-e154b43e-19f0-4002-934f-fb3bb18e090c.png)
+![image](https://user-images.githubusercontent.com/112968634/192673744-c3e837c0-07ff-4248-b091-395d3daa0ba1.png)
 
 Ideally, the website would start above the surface. Give the essentials of fracking process and exactly what happens while explaining in layman terms. Next, we move down the pipe to the environmental harm and communal harm done by fracking. By the time we have made it to the most hopeless part of the website we start to make our way back up the pipe. As the 
 
