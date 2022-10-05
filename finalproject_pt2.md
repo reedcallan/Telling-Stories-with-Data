@@ -1,6 +1,6 @@
 # Final Project Part II #
 
-Explanation for Topic switch
+## Topic Switch ##
 While I was going to tell my story on fracking in the Appalachin Basin, I ultimately decided against it. There were very few publically available data sets, and the ones that were available had extremely scientific terminology. If I were to tell this story, I would need a lot more time to understand the data and the story it tells.
 
 When pivoting, I knew I wanted a topic with less jargon and more clear evidence towards the story I had in mind. Finally, I wanted a topic that I had personal experience with. After considering these factors, I decided to focus on Swipe-Based Dating Apps and their Impact on our Health.
