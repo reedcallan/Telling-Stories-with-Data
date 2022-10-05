@@ -5,3 +5,9 @@ Visualization #1
 
 Visualization #2
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/11384439"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Visualization #3
+<div class="flourish-embed flourish-radar" data-src="visualisation/11384695"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Visualization #4
+<div class="flourish-embed flourish-radar" data-src="visualisation/11384801"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
