@@ -14,4 +14,5 @@ Data visualization is going to be an incredibly instrumental element of the work
 ### Final Project
 [Part 1](/finalproject_pt1.md)
 
+
 [Part 2](/finalproject_pt2.md)
