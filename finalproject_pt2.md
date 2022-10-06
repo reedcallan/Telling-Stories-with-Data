@@ -28,7 +28,7 @@ Visualization #3
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/11384439"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 This point of few results from a good deal of effort leads to the cycle of dating apps graphic I will include. 
-
+![image](https://user-images.githubusercontent.com/112968634/194205332-66cb3a47-e2c2-43f4-987b-24f7222e3e81.png)
 This chart should hammer home that there is a consistent cycle that can lead to mental harm which I will prove by displaying the following visualization.
 
 
