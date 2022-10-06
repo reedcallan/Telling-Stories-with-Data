@@ -51,19 +51,19 @@ The target audience here is going to be people dating their 20s. This is a very 
 I wanted to get voices from different stages in relationships. I wanted to also get perspective from someone who had no experience in online dating to see a different perspective.
 
 ### Interview Script ###
-Who do you think this is trying to reach?
-Pick your least favorite visualization. What would you change about it?
-What did you learn?
-Did this story flow for you?
+1.Who do you think this is trying to reach?
+2.Pick your least favorite visualization. What would you change about it?
+3.What did you learn?
+4.Did this story flow for you?
 
 ### Overall Findings ###
-Married, 64 years old:
+**Married, 64 years old:**
 Please make sure that you are explaining the difference between swipe-based online dating and normal online dating. I liked all the visualizations but maybe add subtitles so we have more context. I think it flowed well! I didn’t know that this was such a big issue in modern dating.
 
-In a Couple, 27 years old:
+**In a Couple, 27 years old:**
 Could have applied to me a year ago. I didn’t like the first bar chart. Why are you highlighting “Relieving Boredom”. I didn’t really learn anything, but that is mainly because I’ve been through this and know that dating apps suck.
 
-Single, 25 years old:
+**Single, 25 years old:**
 I love this and the color it reminds me too much of Tinder. I’m a little confused by the Physical health graph. I understand why it is here, but it needs to be explained further. I honestly feel so much better, as I was just trying to find a way to describe the frustration I get from dating apps. This helped me put words to my emotions.
 
 ### Plans ### 
