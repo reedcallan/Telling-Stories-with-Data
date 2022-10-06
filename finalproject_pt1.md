@@ -34,5 +34,6 @@ While many individuals care for the enviroment the topic has become so polarizin
 [Communal Risk](https://www.sciencedirect.com/science/article/pii/S0048969715001667)
 
 [Continue to Part 2](/finalproject_pt2.md)
+
 [Back to home](https://reedcallan.github.io/Telling-Stories-with-Data/)
 
