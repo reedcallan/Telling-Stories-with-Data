@@ -51,10 +51,10 @@ The target audience here is going to be people dating their 20s. This is a very 
 I wanted to get voices from different stages in relationships. I wanted to also get perspective from someone who had no experience in online dating to see a different perspective.
 
 ### Interview Script ###
-1.Who do you think this is trying to reach?
-2.Pick your least favorite visualization. What would you change about it?
-3.What did you learn?
-4.Did this story flow for you?
+1. Who do you think this is trying to reach?
+2. Pick your least favorite visualization. What would you change about it?
+3. What did you learn?
+4. Did this story flow for you?
 
 ### Overall Findings ###
 **Married, 64 years old:**
