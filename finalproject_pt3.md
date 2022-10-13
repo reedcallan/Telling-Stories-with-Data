@@ -3,4 +3,4 @@
 
 
 ### [Back to Part II](/finalproject_pt2.md)
-### [Back to Main](Telling-Stories-with-Data.md)
+### [Back to home](https://reedcallan.github.io/Telling-Stories-with-Data/)
