@@ -75,5 +75,6 @@ I love this and the color it reminds me too much of Tinder. I’m a little confu
 ### Plans
 I feel like the biggest aspect I need to work on is my story flow. I have decent visualizations (maybe a few tweaks), but the overall story flow needs to be clearer. I saw a great deal of confusion when assessing the physical health visualization, so I could benefit from an evaluation there. Finally, I need more concrete resources at the end to define a call-to-action.
 
-[Continue to Part II](/finalproject_pt3.md)
-[Back to Part I](/finalproject_pt1.md)
+### [Continue to Part II](/finalproject_pt3.md)
+### [Back to Part I](/finalproject_pt1.md)
+### [Back to home](https://reedcallan.github.io/Telling-Stories-with-Data/)
