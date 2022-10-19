@@ -1,4 +1,7 @@
 # Critique by Design
+
+[Back to main page](https://reedcallan.github.io/Telling-Stories-with-Data/)
+
 ## Step One
 ![Initial Visualization](https://www.statisticshowto.com/wp-content/uploads/2014/01/wii-floundering.png)
 
